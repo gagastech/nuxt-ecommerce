@@ -87,7 +87,7 @@
       },
     },
 
-    //method
+    //methods
     methods: {
 
         //method "searchData"
